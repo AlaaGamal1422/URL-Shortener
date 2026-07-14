@@ -55,7 +55,12 @@ typings/
 # dotenv environment variables file
 .env
 .env.test
+config.env
 
 # IDEs
 .idea
 .vscode
+
+# Build output
+dist/
+
